@@ -6,24 +6,24 @@
 
 <picture>
   <source
-    width="1024px"
+    width="512px"
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/MakerbaseMoon/.github/master/profile/assets/teacher/teacher-dark.svg"
   />
   <img 
-    width="1024px"
+    width="512px"
     src="https://raw.githubusercontent.com/MakerbaseMoon/.github/master/profile/assets/teacher/teacher-light.svg"
   />
 </picture>
 <hr>
 <picture>
   <source
-    width="1024px"
+    width="512px"
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/MakerbaseMoon/.github/master/profile/assets/student/student-dark.svg"
   />
   <img 
-    width="1024px"
+    width="512px"
     src="https://raw.githubusercontent.com/MakerbaseMoon/.github/master/profile/assets/student/student-light.svg"
   />
 </picture>
