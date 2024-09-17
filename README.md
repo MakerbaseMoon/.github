@@ -35,6 +35,7 @@
 ### 🎉 2024/09/27 手勢控制萬向車 Gesture Car 1st
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MakerbaseMoon&repo=gesture-car-esp&theme=dark)](https://github.com/MakerbaseMoon/gesture-car-esp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MakerbaseMoon&repo=gesture-car-mini-esp&theme=dark)](https://github.com/MakerbaseMoon/gesture-car-mini-esp)
 
 ### ✨ 2024/08/22 3D掃描機 3D Scanner 1st
 
@@ -45,6 +46,7 @@
 
 - 2024.09.27 手勢控制萬向車 Gesture Car 1st
   - [ESP32 Project](https://github.com/MakerbaseMoon/gesture-car-esp)
+  - [ESP32 Mini Project](https://github.com/MakerbaseMoon/gesture-car-mini-esp)
 - 2024.08.22 3D掃描機 3D Scanner 1st <br> 
 ![GitHub Release](https://img.shields.io/github/v/release/MakerbaseMoon/3d_scanner_esp?logo=espressif&label=ESP32)
 ![GitHub Release](https://img.shields.io/github/v/release/MakerbaseMoon/3d_scanner_nextjs?logo=nextdotjs&label=NextJS%20Website)
