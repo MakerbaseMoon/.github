@@ -34,13 +34,13 @@
 
 ### 🎉 2024/09/27 手勢控制萬向車 Gesture Car 1st
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MakerbaseMoon&repo=gesture-car-esp&theme=dark)](https://github.com/MakerbaseMoon/gesture-car-esp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MakerbaseMoon&repo=gesture-car-mini-esp&theme=dark)](https://github.com/MakerbaseMoon/gesture-car-mini-esp)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=MakerbaseMoon&repo=gesture-car-esp&theme=dark)](https://github.com/MakerbaseMoon/gesture-car-esp)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=MakerbaseMoon&repo=gesture-car-mini-esp&theme=dark)](https://github.com/MakerbaseMoon/gesture-car-mini-esp)
 
 ### ✨ 2024/08/22 3D掃描機 3D Scanner 1st
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MakerbaseMoon&repo=3d_scanner_esp&theme=dark)](https://github.com/MakerbaseMoon/3d_scanner_esp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MakerbaseMoon&repo=3d_scanner_nextjs&theme=dark)](https://github.com/MakerbaseMoon/3d_scanner_nextjs)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=MakerbaseMoon&repo=3d_scanner_esp&theme=dark)](https://github.com/MakerbaseMoon/3d_scanner_esp)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=MakerbaseMoon&repo=3d_scanner_nextjs&theme=dark)](https://github.com/MakerbaseMoon/3d_scanner_nextjs)
 
 ### 2024
 
